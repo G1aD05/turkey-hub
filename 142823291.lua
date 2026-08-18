@@ -1,3 +1,5 @@
+-- Murder Mystery 2
+
 -- Libraries
 local Rayfield = loadstring(game:HttpGet("https://sirius.menu/gen2"))()
 
